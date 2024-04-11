@@ -1,0 +1,1 @@
+trigno_msgs/trignoEMG[] trigno_emg
